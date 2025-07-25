@@ -2,15 +2,15 @@ package com.LSM.sh07_3_Quiz;
 
 public class BankAccount {
 
-	private double balane;
+	private double balance;
 
 	public double getBalane() {
-		return balane;
+		return balance;
 	}
 
-	public void setBalane(double balane) {
-		this.balane = balane;
-		if(balane>0) {	
+	public void setBalane(double balance) {
+		if(balance>0) {	
+			this.balance = balance;
 		}
 	}
 	
