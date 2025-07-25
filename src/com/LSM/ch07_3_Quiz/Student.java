@@ -1,4 +1,4 @@
-package com.LSM.sh07_3_Quiz;
+package com.LSM.ch07_3_Quiz;
 
 public class Student extends Person{
 
