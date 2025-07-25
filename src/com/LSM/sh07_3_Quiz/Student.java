@@ -1,9 +1,9 @@
 package com.LSM.sh07_3_Quiz;
 
-public class student extends Person{
+public class Student extends Person{
 
 
-	public student(String name) {
+	public Student(String name) {
 		super(name);
 		// TODO Auto-generated constructor stub
 		
